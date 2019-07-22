@@ -1,0 +1,34 @@
+{
+  "explorer": {"x": 2, "y": 1},
+  "mummy": {"type": "white", "x": 1, "y": 4},
+  "wall": [
+    {"type": "vertical_1", "x": 0, "y": 5},
+    {"type": "vertical_1", "x": 2, "y": 5},
+	{"type": "vertical_1", "x": 3, "y": 5},
+    {"type": "vertical_1", "x": 1, "y": 4},
+	{"type": "vertical_1", "x": 4, "y": 4},
+	{"type": "horizontal", "x": 1, "y": 3},
+	{"type": "horizontal", "x": 4, "y": 3},
+	{"type": "horizontal", "x": 2, "y": 2},
+	{"type": "horizontal", "x": 4, "y": 2},
+	{"type": "vertical_1", "x": 0, "y": 2},
+	{"type": "vertical_1", "x": 1, "y": 2},
+	{"type": "vertical_1", "x": 2, "y": 2},
+	{"type": "horizontal", "x": 1, "y": 1},
+	{"type": "horizontal", "x": 2, "y": 0},
+	{"type": "horizontal", "x": 3, "y": 0},
+	{"type": "vertical_0", "x": 1, "y": 0},
+	{"type": "vertical_0", "x": 4, "y": 0}
+  ],
+  "stairs": {"type": "left", "index": 3},
+  "trap": [
+    {"x": 0, "y": 5},
+	{"x": 5, "y": 1}
+  ],
+  "tool": [
+    {
+      "key": {"x": 5, "y": 5},
+      "gate": {"x": 5, "y": 4}
+    }
+  ]
+}
