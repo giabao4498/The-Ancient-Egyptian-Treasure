@@ -1,0 +1,17 @@
+{
+  "explorer": {"x": 2, "y": 3},
+  "mummy": {"type": "white", "x": 0, "y": 5},
+  "wall": [
+    {"type": "horizontal", "x": 1, "y": 4},
+    {"type": "horizontal", "x": 3, "y": 4},
+    {"type": "vertical_1", "x": 3, "y": 4},
+	{"type": "horizontal", "x": 4, "y": 3},
+	{"type": "vertical_1", "x": 2, "y": 3},
+	{"type": "horizontal", "x": 4, "y": 2},
+	{"type": "horizontal", "x": 4, "y": 1},
+	{"type": "horizontal", "x": 5, "y": 1},
+	{"type": "horizontal", "x": 0, "y": 0},
+	{"type": "horizontal", "x": 4, "y": 0}
+  ],
+  "stairs": {"type": "bottom", "index": 5}
+}

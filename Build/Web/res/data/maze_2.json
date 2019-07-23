@@ -1,0 +1,11 @@
+{
+  "explorer": {"x": 2, "y": 0},
+  "mummy": {"type": "white", "x": 0, "y": 5},
+  "wall": [
+	{"type": "vertical_1", "x": 0, "y": 4},
+    {"type": "horizontal", "x": 2, "y": 2},
+	{"type": "vertical_1", "x": 4, "y": 1},
+    {"type": "horizontal", "x": 5, "y": 0}
+  ],
+  "stairs": {"type": "left", "index": 3}
+}
