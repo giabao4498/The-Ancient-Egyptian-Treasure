@@ -14,11 +14,11 @@ This game is made for education purpose only. I do not own copyrights of content
 Student ID: 1651005
 
 ## Storyline:
-The world has many unsolved mysteries, especially about the ancient Egypt. One of the biggest mysteries is hidden in the ancient Tutankhamun’s tomb. Many people lost their lives trying to find it. It is said to contain a deadly curse that no one entering the pyramid could come back alive.
+The world has many unsolved mysteries, especially about the ancient Egypt. One of the biggest mysteries is hidden in the ancient Tutankhamun's tomb. Many people lost their lives trying to find it. It is said to contain a deadly curse that no one entering the pyramid could come back alive.
 
 But nothing can stop me. I do not believe in superstitions. I must find the hidden treasure by all cost. Adventure is in my blood. And I will go down in history as the first to unravel this mystery.
 
-Stepping to the pyramid, I feel a dark aura. Something is watching me! It is coming closer! I wonder what is it. What a stinky smell!
+Stepping to the pyramid, I feel a dark aura. Something is watching me! It is coming closer! I wonder what it is. What a stinky smell!
 
 In the Name of the Father, and of the Son, and of the Holy Spirit, Amen.
 
@@ -74,16 +74,16 @@ The pyramid has `15` chambers. The final one contains an ancient Egyptian treasu
 If you solve the 15th maze, you will grab the treasure and win the game.
 
 ## Build:
-This game was built using ***Cocos2d-x 3.8.1*** game engine and ***JavaScript***.
+This game was built using ***Cocos2d-x 3.9*** game engine and ***JavaScript***.
 
 ## References:
-The resources is mostly from the game Mummy Maze of PopCap Games.
+The resources are mostly from the game Mummy Maze of PopCap Games.
 
 Control board: http://1.bp.blogspot.com/-zZ0oglxFQn4/TpqdTgGWaQI/AAAAAAAACjw/y1Piucm5mus/s1600/cusrive_sample.jpg
 
 I used Microsoft Paint and Microsoft PowerPoint to edit or create images.
 
-Sound:
+Sounds:
 - Menu: https://youtu.be/BvMFs5cjnfA
 - In game: https://youtu.be/WNak3YgT86A
 - Complete a level: https://youtu.be/cK3uKFLoLH0
