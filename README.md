@@ -76,6 +76,9 @@ If you solve the 15th maze, you will grab the treasure and win the game.
 ## Build:
 This game was built using ***Cocos2d-x 3.9*** game engine and ***JavaScript***.
 
+## Demo:
+https://youtu.be/SRZM7Newxm8
+
 ## References:
 The resources are mostly from the game Mummy Maze of PopCap Games.
 
