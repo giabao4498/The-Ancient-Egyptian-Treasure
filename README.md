@@ -9,6 +9,9 @@ In order to escape, you must use the pyramid walls or gates to trap the mummy an
 ## Disclaimer:
 This game is made for education purpose only. I do not own copyrights of contents.
 
+## Demo:
+https://youtu.be/SRZM7Newxm8
+
 ## Author:
 ### Nguyễn Hoàng Gia Bảo
 Student ID: 1651005
@@ -75,9 +78,6 @@ If you solve the 15th maze, you will grab the treasure and win the game.
 
 ## Build:
 This game was built using ***Cocos2d-x 3.9*** game engine and ***JavaScript***.
-
-## Demo:
-https://youtu.be/SRZM7Newxm8
 
 ## References:
 The resources are mostly from the game Mummy Maze of PopCap Games.
