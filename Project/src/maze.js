@@ -424,7 +424,7 @@ function escape() {
 }
 
 function up() {
-    if (matrix[explorerPos.x][explorerPos.y].top) {
+    if (matrix[explorerPos.x][explorerPos.y].top && (explorerPos.x != mummyPos.x || explorerPos.y + 1 != mummyPos.y)) {
         arrowState = keyState = false;
         setMove();
         reverseButtons();
@@ -439,7 +439,7 @@ function up() {
 }
 
 function down() {
-    if (matrix[explorerPos.x][explorerPos.y].bottom) {
+    if (matrix[explorerPos.x][explorerPos.y].bottom && (explorerPos.x != mummyPos.x || explorerPos.y - 1 != mummyPos.y)) {
         arrowState = keyState = false;
         setMove();
         reverseButtons();
@@ -454,7 +454,7 @@ function down() {
 }
 
 function left() {
-    if (matrix[explorerPos.x][explorerPos.y].left) {
+    if (matrix[explorerPos.x][explorerPos.y].left && (explorerPos.x - 1 != mummyPos.x || explorerPos.y != mummyPos.y)) {
         arrowState = keyState = false;
         setMove();
         reverseButtons();
@@ -469,7 +469,7 @@ function left() {
 }
 
 function right() {
-    if (matrix[explorerPos.x][explorerPos.y].right) {
+    if (matrix[explorerPos.x][explorerPos.y].right && (explorerPos.x + 1 != mummyPos.x || explorerPos.y != mummyPos.y)) {
         arrowState = keyState = false;
         setMove();
         reverseButtons();
