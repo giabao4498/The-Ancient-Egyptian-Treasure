@@ -8,7 +8,7 @@ const matrix = [];
 var listOfKeys;
 var upButton, downButton, leftButton, rightButton, passTurn, undoMove, resetMaze, ankh, head;
 var arrowState, stairsDirection, currentLevel, keyState;
-var turn; // queue
+var turn; // stack
 /* {
     explorer: {x, y, direction},
     mummy: {x, y, direction}
